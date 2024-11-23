@@ -10,7 +10,7 @@ Este repositório contém os scripts, dados e documentos relacionados à anális
   - `vendas_mensais.pdf`: Gráfico de linha exibindo a tendência geral de vendas ao longo do ano.  
 
 - **`simulacao.ipynb`**  
- Notebook contendo a simulação dos dados iniciais e a geração do arquivo `data_clean.csv`.
+ Notebook contendo a simulação dos dados iniciais e a geração do arquivo `data_clean.csv`, com 250 registros.
 
 - **`analise_exploratoria.ipynb`**  
   Notebook contendo a análise exploratória dos dados e a geração dos gráficos apresentados.
