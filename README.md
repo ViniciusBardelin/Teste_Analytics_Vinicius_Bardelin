@@ -4,7 +4,7 @@ Este repositório contém os scripts, dados e documentos relacionados à anális
 
 ## Estrutura do Repositório
 
-- **Gráficos/**  
+- **Gráficos**  
   - `vendas_categoria_geral.pdf`: Gráfico de linhas mostrando as vendas totais por categoria ao longo do ano.  
   - `vendas_categoria_mensal.pdf`: Gráfico de barras empilhadas destacando as vendas mensais por categoria.  
   - `vendas_mensais.pdf`: Gráfico de linha exibindo a tendência geral de vendas ao longo do ano.  
