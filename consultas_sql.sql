@@ -9,7 +9,7 @@ USE quod
 #    Produto CHAR(1), # Os produtos foram descritos com uma letra
 #    Categoria VARCHAR(15),
 #    Quantidade INT,
-#    Preco DECIMAL(10, 2) # Alguns preços simulados possuem muitas casas decimais
+#    Preco DECIMAL(10, 2) 
 #);
 
 # Visualiza as 10 primeiras linhas da tabela "data_clean"
